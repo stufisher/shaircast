@@ -1,7 +1,6 @@
 {
-	"groupName": "All Speakers",
+	"groupName": "My Speaker Group",
 	"endpoints": [
-		"192.168.1.116",
-		"192.168.1.117"
+		{ "host": "192.168.1.123", "port": 5000, "volscale": 1 }
 	]
 }
